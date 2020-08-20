@@ -8,5 +8,4 @@ def key_for_min_value(name_hash)
     if current_minimum_val == nil 
       current_minimum_val = value 
       current_key_assoc_w_min_val = key
-      else current_minimum_val > value current_minimum_val = value current_key_assoc_w_min_val = key
-    end
+      else current_minimum_val > value current_minimum_val = value current_key_assoc_w_min_val = ke
